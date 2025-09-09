@@ -3,12 +3,12 @@
 Apex is an open schema log structure for **tours, activities, and travel experiences**.  
 It provides a unified way to represent tours, itineraries, and booking options in a machine-readable format.
 
-## Why Tour Schema?
+## Why Apex?
 
-Tour data is scattered across booking platforms. Reviews are fragmented. Tour Schema provides:
+Tour data is scattered across booking platforms. Reviews are fragmented. Apex tour schema logs provide:
 
-- Unified **tour schema**: define your tour once, reference it across platforms.
-- Cross-platform reviews: aggregate feedback from OTAs (Viator, GetYourGuide, Klook, TripAdvisor, TourHubAsia, etc.).
+- Unified, canonical **tour schema**: define your tour once, reference it across platforms.
+- Cross-platform reviews: aggregate feedback from OTAs (Viator, GetYourGuide, Klook, TripAdvisor, etc.).
 - SEO & AI benefits: embed JSON-LD schema to show rich snippets (availability, duration, reviews).
 - Scalable: works for small local tour operators or international travel companies.
 
@@ -26,7 +26,7 @@ Tour data is scattered across booking platforms. Reviews are fragmented. Tour Sc
     "@type": "Offer",
     "priceCurrency": "THB",
     "price": "1200",
-    "url": "https://tourhubasiaexample.com/tour/chiang-mai-temples"
+    "url": "https://tourhubasia-example.com/tour/chiang-mai-temples"
   }
 }
 {
