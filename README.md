@@ -1,4 +1,4 @@
-# Apex Schema Log
+# Apex Tour and Activity Schema Log
 
 Apex is an open schema log structure for **tours, activities, and travel experiences**.  
 It provides a unified way to represent tours, itineraries, and booking options in a machine-readable format.
